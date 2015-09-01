@@ -1,4 +1,4 @@
-package net.bitacademy.java72.control.json;
+package net.bitacademy.java72.control.json2;
 
 import java.util.HashMap;
 import java.util.Map;
