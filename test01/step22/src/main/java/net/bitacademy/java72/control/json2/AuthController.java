@@ -1,5 +1,5 @@
 package net.bitacademy.java72.control.json;
-
+//변경변경변경 
 import java.util.HashMap;
 import java.util.Map;
 
@@ -27,6 +27,7 @@ public class AuthController {
       HttpServletResponse response,
       HttpSession session) throws Exception {
 
+    
     Map<String,Object> result = 
         new HashMap<String,Object>();
     
